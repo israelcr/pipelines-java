@@ -1,3 +1,4 @@
+[![Build Status](https://clt-4837712a-22c7-4da4-b119-99093751d49d.visualstudio.com/TravelAIR/_apis/build/status/israelcr.pipelines-java?branchName=master)](https://clt-4837712a-22c7-4da4-b119-99093751d49d.visualstudio.com/TravelAIR/_build/latest?definitionId=74&branchName=master)
 
 # Contributing
 
